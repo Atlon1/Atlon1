@@ -3,7 +3,7 @@
 <h3 align="left">Junior Front-End Developer</h3>
 <p align="left">I started programming in December 2021, on a course at the IT school "Coders Lab". I'm interested in interface and the functionality of application. IT branch enables to develop creative thinking and is characterized by dynamic changes. </p>
 
-<h2 align="left">JI'm currently studying:</h2>
+<h2 align="left">I'm currently studying:</h2>
 <p align="left"><ul>
 <li>node.js</li>
 <li>TypeScript</li>
