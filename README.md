@@ -30,5 +30,5 @@
 <p align="left">
 
 <p align="left">
-<a href="hhttps://www.linkedin.com/in/maciej-szajstek-8995b4175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maciej_Sz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maciej-szajstek-8995b4175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maciej_Sz" height="30" width="40" /></a>
 </p>
