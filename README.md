@@ -1,7 +1,12 @@
 
 <h1 align="left">Hi, I'm Maciej</h1>
 <h3 align="left">Junior Front-End Developer</h3>
-<p align="left">I started programming in December 2021, on a course at the IT school "Coders Lab". I'm interested in interface and the functionality of application. IT branch enables to develop creative thinking and is characterized by dynamic changes. </p>
+<p align="left">My adventure with programming started in December 2021. Since then I have been learning and solving various problems. My greatest strength right now is React. I hope that I will develop steadily :) </p>
+<ul>
+<li>JavaScript Developer (CodersLab)</li>
+</ul>
+
+<p align="left">Current completed courses:) </p>
 
 <h2 align="left">I'm currently studying:</h2>
 <p align="left"><ul>
@@ -22,11 +27,14 @@
 </p><p><a href="https://www.microsoft.com/pl-pl/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows"width="40" height="40"/></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="windows"width="40" height="40"/></a></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atlon1&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+<br></br>
+<br></br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlon1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br></br> <br></br> <br></br>
+<br></br> <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <p align="left">
 <a href="https://www.linkedin.com/in/maciej-szajstek-8995b4175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maciej_Sz" height="30" width="40" /></a>
 </p>
