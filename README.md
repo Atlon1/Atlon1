@@ -2,11 +2,12 @@
 <h1 align="left">Hi, I'm Maciej</h1>
 <h3 align="left">Junior Front-End Developer</h3>
 <p align="left">My adventure with programming started in December 2021. Since then I have been learning and solving various problems. My greatest strength right now is React. I hope that I will develop steadily :) </p>
+<p align="left">Current completed courses:) </p>
 <ul>
 <li>JavaScript Developer (CodersLab)</li>
 </ul>
 
-<p align="left">Current completed courses:) </p>
+
 
 <h2 align="left">I'm currently studying:</h2>
 <p align="left"><ul>
@@ -29,10 +30,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atlon1&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 <br></br>
-<br></br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlon1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br></br> <br></br>
+<br></br
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
