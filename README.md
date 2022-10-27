@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atlon1&" alt="atlon" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atlon1&show_icons=true&locale=en&layout=compact" alt="atlon" /></p>
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atlon1&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)</p>
 <br></br> <br></br> <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
