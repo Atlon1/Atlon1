@@ -5,15 +5,11 @@
 <p align="left">Current completed courses:) </p>
 <ul>
 <li>JavaScript Developer (CodersLab)</li>
+<li>node.js</li>
+<li>TypeScript</li>
 </ul>
 
 
-
-<h2 align="left">I'm currently studying:</h2>
-<p align="left"><ul>
-<li>node.js</li>
-<li>TypeScript</li>
-</ul> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
