@@ -5,7 +5,10 @@
 <p align="left">Current completed courses:) </p>
 <ul>
 <li>JavaScript Developer (CodersLab)</li>
+<li>JavaScript (path, comand, Fs, cli)</li>
+<li>React(aos, firebase, typed, dynamic web aplication's)</li>
 <li>node.js</li>
+<li>Mongose DB, Axios, Express</li>
 <li>TypeScript</li>
 </ul>
 
