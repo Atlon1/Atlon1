@@ -4,7 +4,7 @@
 <p align="left">My adventure with programming started in December 2021. Since then I have been learning and solving various problems. My greatest strength right now is React. I hope that I will develop steadily :) </p>
 <p align="left">Current completed courses:) </p>
 <ul>
-<li>Fornt-end Developer (CodersLab)</li>
+<li>Front-end Developer (CodersLab)</li>
 <li>JavaScript (path, comand, Fs, cli)</li>
 <li>React(aos, firebase, typed, dynamic web aplication's)</li>
 <li>node.js</li>
