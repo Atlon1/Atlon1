@@ -10,6 +10,7 @@
 <li>node.js</li>
 <li>Mongose DB, Axios, Express</li>
 <li>TypeScript</li>
+<li>Tailwind CSS</li>
 </ul>
 
 
