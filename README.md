@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi, I'm Maciej</h1>
-<h3 align="left">Junior Full stack Developer</h3>
+<h3 align="left"> Full stack Developer</h3>
 <p align="left">My adventure with programming started in December 2021. Since then I have been learning and solving various problems. My greatest strength right now is React. I hope that I will develop steadily :) </p>
 <p align="left">Current completed courses:) </p>
 <ul>
