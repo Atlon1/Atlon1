@@ -11,6 +11,9 @@
 <li>Mongose DB, Axios, Express</li>
 <li>TypeScript</li>
 <li>Tailwind CSS</li>
+<li>Next Js 13</li>
+<li>C#</li>
+<li>Net#</li>
 </ul>
 
 
