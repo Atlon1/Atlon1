@@ -13,7 +13,7 @@
 <li>Tailwind CSS</li>
 <li>Next Js 13</li>
 <li>C#</li>
-<li>Net#</li>
+<li>.Net#</li>
 </ul>
 
 
