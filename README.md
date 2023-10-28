@@ -44,13 +44,10 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Atlon1&theme=react&hide_border=false)
 
-![Metrics](/metrics.plugin.languages.indepth.svg)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlon1&layout=compact&theme=react&hide)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atlon1&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 
 
