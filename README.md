@@ -1,6 +1,6 @@
 
 
-### Cześć! Jestem Maciej :)  
+### Hello! I'm Maciej :)  
 
 <h3 align="left"> Front end Developer</h3>
 
