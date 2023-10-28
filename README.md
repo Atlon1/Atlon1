@@ -46,21 +46,14 @@
 
 ![Metrics](/metrics.plugin.languages.indepth.svg)
 
-</div>
-
-
-<div align="right">
-
-[![](https://visitcount.itsvg.in/api?id=Atlon1&icon=2&color=12)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlon1&layout=compact&theme=react&hide)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atlon1&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 
-<br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlon1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
