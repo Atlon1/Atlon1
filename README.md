@@ -33,6 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
  </div> 
 
+ ### Portfolio:
+ https://atlon1.github.io/portfolioMSz/
+
  #### Kontakt:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-szajstek-8995b4175/) 
 
